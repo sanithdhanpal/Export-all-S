@@ -1,7 +1,7 @@
 {
   "public": false,
   "name": "Tableau-Extension-ExportAll",
-  "alias": ["exportallextension.sanithdhanpal.io"],
+  "alias": ["https://sanithdhanpal.github.io/Export-all-S"],
   "version": 2,
   "regions": ["all"],
   "routes": [
